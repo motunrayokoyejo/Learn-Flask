@@ -1,0 +1,5 @@
+mysql_host : 'localhost'
+mysql_user : 'root'
+mysql_password : '1234'
+mysql_db : 'employee_data'
+mysql_cursor_class : 'DictCursor'
