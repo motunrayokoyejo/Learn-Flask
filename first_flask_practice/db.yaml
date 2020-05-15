@@ -1,0 +1,4 @@
+mysql_host : 'localhost'
+mysql_user: 'root'
+mysql_password : '1234'
+mysql_db: 'motun_flask'

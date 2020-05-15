@@ -1,0 +1,18 @@
+<!-- <!DOCTYPE html>
+<html>
+    <head>
+      <title>My Project</title>
+    </head>
+<body>
+    {% block body %}
+    {% endblock %}
+</body>
+</html> -->
+{% extends 'bootstap/base.html' %}
+{% block title %}
+  My Project
+{% endblock %}
+{% block content%}
+  {% block body %}
+  {% endblock %}
+{% endblock %}
